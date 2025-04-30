@@ -1,8 +1,9 @@
 # 📊 Mutual Fund Overview & Insights
+The goal of this Power BI-built dynamic and aesthetically interactive dashboard project is to extract insights from the IPL's more than 15 years of match data. The dashboard assists stakeholders, analysts, and cricket fans in examining important performance metrics such as:
 This mutual fund analysis project focuses on identifying top 30 schemes with high return and low risk using Python, Excel, and Power BI.
 
 🛠️ **Tools Used:** Python (Pandas, Sklearn), Excel, Power BI  
-📁 **Dataset:** 2500+ Mutual Fund Schemes (Top 30 Filtered)
+📁 **Dataset:** More Than 2500 Mutual Fund Schemes (Top 30 Filtered)
 
 ---
 
