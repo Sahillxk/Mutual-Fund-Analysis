@@ -16,7 +16,6 @@ To identify **top-performing, low-risk mutual fund schemes** using data-driven t
 ## 🐍 Python-Based Fund Analysis
 
 I started by importing and exploring a dataset of over 2500 mutual fund schemes.  
-🔗 [Mutual_Funds.csv](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual_Funds.csv)  
 🔗 [Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
 
 ### 1. Data Cleaning
@@ -117,7 +116,6 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 | File | Description |
 |------|-------------|
-| [Mutual_Funds.csv](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual_Funds.csv) | Main dataset |
 | [top_30_mutual_funds.xlsx](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
 | [Mutual Fund Dashboard.pbix](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
 | [Mutual Fund Dashboard.png](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
